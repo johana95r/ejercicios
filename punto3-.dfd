@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+45
+'Digita tu nombre, edad, sexo y estado civil'
+6
+3
+6
+Nombre
+2
+''
+5
+sexoM
+1
+1
+5
+sexoF
+1
+2
+6
+3
+9
+ECsoltero
+1
+1
+8
+ECcasado
+1
+2
+7
+ECviudo
+1
+3
+5
+1
+56
+Nombre, edad, sexom, sexof, ecsoltero, eccasado, ecviudo
+7
+0
+1
+8
+edad>=18
+4
+1
+25
+'aun no es mayor de edad'
+13
+4
+1
+34
+sexo, ecsoltero, eccasado, ecviudo
+13
+1
