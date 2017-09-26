@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+PromFi
+1
+0
+4
+1
+32
+'Ingrese numeros de estudiantes'
+5
+1
+4
+ntot
+8
+1
+1
+x
+1
+1
+1
+1
+5
+ ntot
+1
+1
+1
+4
+1
+44
+'Ingrese numero del promedio del estudiante'
+5
+1
+5
+Prome
+6
+1
+6
+PromFi
+12
+Promfi+prome
+10
+6
+1
+6
+Promfi
+11
+Promfi/ntot
+4
+1
+37
+'Promedio general del grupo ', promfi
+1

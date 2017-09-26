@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+acugrup
+1
+0
+4
+1
+28
+'ingrese numero de clientes'
+5
+1
+8
+numclien
+8
+1
+1
+x
+1
+1
+1
+1
+8
+numclien
+1
+1
+1
+4
+1
+78
+'ingrese lectura actual, anterior, y valor del vatio (en su respectivo orden)'
+5
+1
+15
+actu,anter,prec
+6
+3
+5
+consu
+10
+actu-anter
+7
+acugrup
+13
+acugrup+consu
+4
+paga
+10
+consu*prec
+4
+1
+73
+'el consumo del cliente es: ',consu,' vaits  y su total a pagar : $',paga
+10
+4
+1
+41
+'consumo del grupo de clientes: ',acugrup
+1
